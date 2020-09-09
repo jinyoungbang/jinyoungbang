@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Jin Young!</h1>
-<h3 align="center">CS @ <a href=https://www.bu.edu/ target="blank">Boston University</a></h3>
+<h3 align="center">
+  CS @ <a href=https://www.bu.edu/ target="blank">Boston University</a>, Former Data Engineering @ <a href=https://www.omnious.com/ target="blank">Omnious</a>, Organizer @ <a href=http://bostonhacks.io/ target="blank">BostonHacks</a>
+</h3>
 
 <p align="center">
   <a href=mailto:jybang@bu.edu target="blank">
@@ -12,7 +14,11 @@
   </a>
 </p>
   
+  
 <p align="center">
 🔭  I’m currently looking for a Spring/Summer 2021 Internship!
+</p>
+<p align="center">
+  💡  Read about my <a href="https://medium.com/bostonhacks/the-bostonhacks-intern-life-covid-edition-jin-young-alex-bang-omnious-intern-45fcbaef5e5d">experience</a> at Omnious!
 </p>
 
