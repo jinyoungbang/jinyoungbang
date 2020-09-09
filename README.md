@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Jin Young!</h1>
+<h3 align="center">CS @ <a href=https://www.bu.edu/ target="blank">Boston University</a></h3>
 
-<!--
-**jinyoungbang/jinyoungbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href=mailto:jybang@bu.edu target="blank">
+    <img src="https://img.shields.io/badge/-Email-critical?style=flat-square"/>
+  <a href="https://www.linkedin.com/in/jinyoungbang/">
+      <img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat-square"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1JwUu8oGu40M2k3PYko99_r00dFNz3HvV/view?usp=sharing">
+      <img src="https://img.shields.io/badge/-Resume-important?style=flat-square"/>
+  </a>
+</p>
+  
+<p align="center">
+🔭  I’m currently looking for a Spring/Summer 2021 Internship!
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
