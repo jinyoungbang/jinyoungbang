@@ -16,7 +16,7 @@
   
   
 <p align="center">
-🔭  I’m currently looking for a Spring/Summer 2021 Internship!
+  💡 BostonHacks applications are open! Apply at http://bostonhacks.io/ !
 </p>
 <p align="center">
   💡  Read about my <a href="https://medium.com/bostonhacks/the-bostonhacks-intern-life-covid-edition-jin-young-alex-bang-omnious-intern-45fcbaef5e5d">experience</a> at Omnious!
