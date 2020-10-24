@@ -22,4 +22,6 @@
   💡  Read about my <a href="https://medium.com/bostonhacks/the-bostonhacks-intern-life-covid-edition-jin-young-alex-bang-omnious-intern-45fcbaef5e5d">experience</a> at Omnious!
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinyoungbang" width="80%"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jinyoungbang&count_private=true" width="80%"/>
+</p>
