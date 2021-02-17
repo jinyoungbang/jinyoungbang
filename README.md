@@ -16,7 +16,7 @@
   
   
 <p align="center">
-  💡 Currently building <a href="https://github.com/lumi-io/boards/">Boards</a>!
+  💡 Currently building <a href="https://github.com/lumi-io/boards/">Boards</a> and <a href="https://github.com/lumi-io/postings/">Postings</a>!
 </p>
 <p align="center">
   💡  Read about my <a href="https://medium.com/bostonhacks/the-bostonhacks-intern-life-covid-edition-jin-young-alex-bang-omnious-intern-45fcbaef5e5d">experience</a> at Omnious!
