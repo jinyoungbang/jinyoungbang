@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jin Young!</h1>
 <h3 align="center">
-  Incoming SDE Intern @ Amazon, CS @ <a href=https://www.bu.edu/ target="blank">Boston University</a>, Former Data Engineering @ <a href=https://www.omnious.com/ target="blank">Omnious</a>, Organizer @ <a href=http://bostonhacks.io/ target="blank">BostonHacks</a>
+  SDE Intern @ Amazon, CS @ <a href=https://www.bu.edu/ target="blank">Boston University</a>, Former Data Engineering @ <a href=https://www.omnious.com/ target="blank">Omnious</a>, Organizer @ <a href=http://bostonhacks.io/ target="blank">BostonHacks</a>
 </h3>
 
 <p align="center">
@@ -14,10 +14,7 @@
   </a>
 </p>
   
-  
-<p align="center">
-  💡 Currently building <a href="https://github.com/lumi-io/boards/">Boards</a> and <a href="https://github.com/lumi-io/postings/">Postings</a>!
-</p>
+ 
 <p align="center">
   💡  Read about my <a href="https://medium.com/bostonhacks/the-bostonhacks-intern-life-covid-edition-jin-young-alex-bang-omnious-intern-45fcbaef5e5d">experience</a> at Omnious!
 </p>
