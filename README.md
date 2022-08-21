@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jinyoungbang/">
       <img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat-square"/>
   </a>
-  <a href="https://drive.google.com/file/d/1JwUu8oGu40M2k3PYko99_r00dFNz3HvV/view?usp=sharing">
+  <a href="https://jinyoungbang.github.io/">
       <img src="https://img.shields.io/badge/-Resume-important?style=flat-square"/>
   </a>
 </p>
