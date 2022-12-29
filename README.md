@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/jinyoungbang/">
       <img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat-square"/>
   </a>
-  <a href="https://jinyoungbang.github.io/">
-      <img src="https://img.shields.io/badge/-Resume-important?style=flat-square"/>
+  <a href="https://jybang.notion.site/jybang/Jin-Young-Bang-c55e3d607c474a44a303c563a23c3b0d">
+      <img src="https://img.shields.io/badge/-Portfolio-important?style=flat-square"/>
   </a>
 </p>
   
