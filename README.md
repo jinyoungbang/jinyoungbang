@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Jin Young!</h1>
-<h3 align="center">
-  SDE Intern @ Amazon, CS @ <a href=https://www.bu.edu/ target="blank">Boston University</a>, Former Data Engineering @ <a href=https://www.omnious.com/ target="blank">Omnious</a>, Organizer @ <a href=http://bostonhacks.io/ target="blank">BostonHacks</a>
-</h3>
 
 <p align="center">
   <a href=mailto:jybang@bu.edu target="blank">
